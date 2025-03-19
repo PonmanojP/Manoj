@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "fast-xml-parser": "^5.0.9",
+    "mongoose": "^8.12.1",
+    "neo4j-driver": "^5.28.1",
+    "xml2js": "^0.6.2"
+  }
+}
